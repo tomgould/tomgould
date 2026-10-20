@@ -2,7 +2,8 @@ I've worked on the web since 2004. These are the apps, libraries and tools I've 
 
 ## Apps
 
-- [Solar Calendar](https://github.com/tomgould/solar-calendar): a calendar of 13 identical 28-day months, with each year starting on the first Monday on or after the spring equinox.
+- [Where Should I Live](https://tax.dealmobile.co.uk): ranks cities around the world by what you'd keep after tax, what a month costs and which visas you can get. Closed source.
+- [Solar Calendar](https://solar.dealmobile.co.uk): a calendar of 13 identical 28-day months, with each year starting on the first Monday on or after the spring equinox. [Source on GitHub](https://github.com/tomgould/solar-calendar).
 
 ## Libraries
 
