@@ -24,6 +24,6 @@ I've worked on the web since 2004. These are the apps, libraries and tools I've 
 
 ## Experiments
 
-- [Reelify](https://github.com/tomgould/Reelify): turns long screen recordings into short summary videos, by cutting idle time and speeding up quiet stretches.
+- [Reelify](https://github.com/tomgould/Reelify): turns long screen recordings into short summary videos, by cutting idle time and speeding up what's left to fit a target length.
 
 For more information, visit [dealmobile.co.uk](https://www.dealmobile.co.uk).
