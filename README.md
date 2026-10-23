@@ -18,6 +18,7 @@ I've worked on the web since 2004. These are the apps, libraries and tools I've 
 
 - [Mullet](https://github.com/tomgould/mullet-public): an AI coding orchestrator that sends each task to the cheapest model that can handle it, and plugs into Claude Code over MCP. Paused.
 - [GitHub Auditor](https://github.com/tomgould/github-auditor): a command-line tool for looking after a lot of GitHub repositories at once, with reports on their health, on who has access and on what each developer did.
+- [TCL Google TV Tools](https://github.com/tomgould/tcl-google-tv-tools): scripts for decluttering a TCL Google TV over ADB without root, and for using it as an extra screen for a Linux laptop.
 - [ScrapePy](https://github.com/tomgould/ScrapePy): a Python web scraper that saves whole sites for offline reading and can turn them into Markdown.
 - [Trove](https://github.com/tomgould/trove): a local knowledge engine that searches documents and code by keyword and by meaning, for AI coding tools. Archived in favour of Mullet.
 - [Scrape](https://github.com/tomgould/Scrape): a PHP class that downloads files from web servers with directory listings turned on, and my oldest public repository. Archived.
